@@ -11,7 +11,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-center gap-6 text-sm text-amber-700">
                     <div className="flex items-center gap-2 animate-slide-in-left" style={{ animationDelay: '0.4s' }}>
                         <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
-                        <span>อัพเดทอัตราแลกเปลี่ยนแบบเรียลไทม์</span>
+                        <span>อัพเดทอัตราแลกเปลี่ยนเงินแบบเรียลไทม์</span>
                     </div>
                     <div className="flex items-center gap-2 animate-slide-in-left" style={{ animationDelay: '0.6s' }}>
                         <div className="w-3 h-3 bg-blue-500 rounded-full animate-pulse"></div>
